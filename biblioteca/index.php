@@ -67,7 +67,7 @@ function mostrarLibros() {
     </nav>
 
     <main class="container mt-5 pt-5">
-        <h2 class="text-center">Reservaciones</h2>
+        <h2 class="text-center">Libros:</h2>
         <form method="POST" class="mb-5">
             <div class="mb-3">
                 <label class="form-label">Nombre del libro</label>
